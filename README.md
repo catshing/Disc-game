@@ -7,7 +7,9 @@ This is a game made by a library called Processing in Java and the Processing Li
 ## Getting started
 
 This game requires Eclipse which is an IDE for programming and Processing (library to integrate with Eclipse). 
+
 Download Eclipse on https://www.eclipse.org
+
 Download Processing on https://processing.org/download/
 
 A detailed tutorial on how to configure Eclipse with Processing can be found on this site: https://processing.org/tutorials/eclipse/
