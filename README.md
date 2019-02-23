@@ -1,6 +1,6 @@
 ## Overview 
 
-This is a game made by a library called Processing in Java and the Processing Library is mainly used to create graphics of all kinds.In this game, there are discs that spawn across the Processing window and each disc consists of different scores on it. At the beginning of the game, the discs spawn extremely quick and as time passes, the speed of the discs spawning becomes slower and slower. The goal is to click on each disc that contains a high score on it e.g. 100 instead of 20. As you click on each disc, the score will accumulates and if you are playing with a friend, then whoever gets the highest score wins!
+This is a game made by a library called Processing in Java and the Processing Library is mainly used to create graphics of all kinds. In this game, there are discs that spawn across the Processing window and each disc consists of different scores on it. At the beginning of the game, the discs spawn extremely quickly and as time passes, the speed of the discs spawning becomes slower and slower. The goal is to click on each disc that contains a high score on it e.g. 100 instead of 20. As you click on each disc, the score will accumulate and if you are playing with a friend, then whoever gets the highest score wins!
 
 ---
 
